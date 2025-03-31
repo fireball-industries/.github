@@ -4,3 +4,5 @@ Welcome to the official repository of **Fireball Industries**, your trusted part
 
 ## About Us
 
+At Fireball Industries, we are industry veterans committed to putting control back into the hands of manufacturers. Frustrated by consultants promoting costly proprietary tools and extracting valuable data, we believe in enabling you to own your digital transformation. Our team delivers scalable, cutting-edge solutions tailored to your unique needs. Serving clients globally, we offer invaluable manufacturing partnerships, insightful consulting, and professional engineering services. Learn more about our mission and services on our [website](https://fireballz.ai).
+
