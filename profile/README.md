@@ -16,3 +16,5 @@ At Fireball Industries, we are industry veterans committed to putting control ba
 
 - **🤝 Manufacturing Partnership**: Access top-tier talent and innovative solutions through our consulting services, transforming the way you approach industrial controls and automation.
 
+## 📞 Contact Us
+
