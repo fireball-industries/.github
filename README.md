@@ -17,3 +17,5 @@ At Fireball Industries, we are industry veterans committed to putting control ba
 ## Contact Us
 
 For more information, inquiries, or to discuss how we can assist in your digital transformation journey, please visit our [website](https://fireballz.ai) or contact us at +1 216 329 8322.
+
+*Empower your factory's efficiency with Fireball Industries—your partner in Industry 4.0 solutions.*
