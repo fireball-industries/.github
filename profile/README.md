@@ -10,3 +10,5 @@ At Fireball Industries, we are industry veterans committed to putting control ba
 
 ## 🛠️ Services
 
+- **🤖 Factory AI**: Leverage Industry 4.0 and extensive manufacturing data to optimize operations and make informed decisions through customized algorithm implementation.
+
