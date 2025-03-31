@@ -18,3 +18,5 @@ At Fireball Industries, we are industry veterans committed to putting control ba
 
 ## 📞 Contact Us
 
+Got questions? Ready to ignite your factory's efficiency? Reach out to us!
+
