@@ -12,3 +12,5 @@ At Fireball Industries, we are industry veterans committed to putting control ba
 
 - **Industry 4.0 Implementation**: Embrace emerging technologies and navigate the fourth industrial revolution with our comprehensive solutions designed to modernize your manufacturing processes.
 
+- **Manufacturing Partnership**: Access top-tier talent and innovative solutions through our consulting services, transforming the way you approach industrial controls and automation.
+
