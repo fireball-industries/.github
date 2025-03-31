@@ -14,7 +14,7 @@ At Fireball Industries, we are industry veterans committed to putting control ba
 
 - **🤝 Manufacturing Partnership**: Access top-tier talent and innovative solutions through our consulting services, transforming the way you approach industrial controls and automation.
 
-## Contact Us
+## 📞 Contact Us
 
 For more information, inquiries, or to discuss how we can assist in your digital transformation journey, please visit our [website](https://fireballz.ai) or contact us at +1 216 329 8322.
 
