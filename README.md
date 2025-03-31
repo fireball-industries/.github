@@ -1,5 +1,7 @@
 # 🚀 Fireball Industries
 
+*Empower your factory's efficiency with Fireball Industries—your partner in Industry 4.0 solutions.*
+
 Welcome to the official repository of **Fireball Industries**, your trusted partner in Industry 4.0 and Industrial Internet of Things (IIoT) solutions. We specialize in empowering manufacturers to optimize operations and drive innovation through advanced automation technologies.
 
 ## 🌟About Us
@@ -16,6 +18,5 @@ At Fireball Industries, we are industry veterans committed to putting control ba
 
 ## 📞 Contact Us
 
-For more information, inquiries, or to discuss how we can assist in your digital transformation journey, please visit our [website](https://fireballz.ai) or contact us at +1 216 329 8322.
+Got questions? Ready to ignite your factory's efficiency? Reach out to us!
 
-*Empower your factory's efficiency with Fireball Industries—your partner in Industry 4.0 solutions.*
