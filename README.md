@@ -10,7 +10,7 @@ At Fireball Industries, we are industry veterans committed to putting control ba
 
 - **🤖 Factory AI**: Leverage Industry 4.0 and extensive manufacturing data to optimize operations and make informed decisions through customized algorithm implementation.
 
-- **Industry 4.0 Implementation**: Embrace emerging technologies and navigate the fourth industrial revolution with our comprehensive solutions designed to modernize your manufacturing processes.
+- **🖥️ Industry 4.0 Implementation**: Embrace emerging technologies and navigate the fourth industrial revolution with our comprehensive solutions designed to modernize your manufacturing processes.
 
 - **Manufacturing Partnership**: Access top-tier talent and innovative solutions through our consulting services, transforming the way you approach industrial controls and automation.
 
