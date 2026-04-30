@@ -16,6 +16,22 @@ At Fireball Industries, we are industry veterans committed to putting control ba
 
 - **🤝 Manufacturing Partnership**: Access top-tier talent and innovative solutions through our consulting services, transforming the way you approach industrial controls and automation.
 
+## 📦 Products
+
+### EmberOPS — Operating System for Manufacturing
+
+A commercial Frappe-native suite that turns ERPNext into a full manufacturing operations platform. Source-available under BSL 1.1, distributed via [EmberNet](https://embernet.ai).
+
+| Repo | Role | License |
+|---|---|---|
+| [EmberOPS](https://github.com/fireball-industries/EmberOPS) | Umbrella + private-labeled core + shared addons + screens | BSL + GPL-3.0 (core/) |
+| [ember_ehs](https://github.com/fireball-industries/ember_ehs) | Environmental, Health & Safety | BSL 1.1 |
+| [ember_mes](https://github.com/fireball-industries/ember_mes) | Manufacturing Execution (headless, REST API) | BSL 1.1 |
+| [ember_wms](https://github.com/fireball-industries/ember_wms) | Warehouse Management *(planned)* | BSL 1.1 |
+
+Browse all EmberOPS repos: [topic:emberops](https://github.com/orgs/fireball-industries/repositories?q=topic%3Aemberops)
+
+
 ## 📞 Contact Us
 
 Got questions? Ready to ignite your factory's efficiency? Reach out to us!
